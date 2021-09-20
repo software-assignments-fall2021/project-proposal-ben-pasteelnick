@@ -1,7 +1,6 @@
 # Project Proposal
 
-### Project title
-All In Poker
+### All In Poker
 
 ### What and why?
 I would like to build a platform on which casual poker players can freely play poker with friends, strangers, or against automated opponents. These would be exclusive to casual, non-gambling games, and there would be no monetization or any monetary value to the chips. Currently, the existing platforms for casual poker either don't allow for online play, or feature some form of monetization. This platform would allow users to simply play poker for the love of the game without having to deal with the hassle of the monetary aspects.
